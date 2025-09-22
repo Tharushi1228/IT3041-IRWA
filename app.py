@@ -14,7 +14,7 @@ from utils import auth   # 🔥 auth utils
 st.set_page_config(page_title="Lecture Notes Processor", layout="wide")
 
 # --------------------------
-# SESSION STATE
+# SESSION STATE  
 # --------------------------
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
