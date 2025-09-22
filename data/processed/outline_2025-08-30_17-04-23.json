@@ -1,0 +1,81 @@
+{
+  "title": "Machine Learning Basics",
+  "topics": [
+    "Machine Learning",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Reinforcement Learning",
+    "Overfitting",
+    "Bias",
+    "Applications"
+  ],
+  "sections": [
+    {
+      "heading": "Introduction to Machine Learning and Supervised Learning",
+      "bullets": [
+        {
+          "text": "Machine learning teaches computers to learn from data instead of explicit rules.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Supervised learning trains systems on labeled data to predict unseen cases.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Example: An email marked as spam or not spam.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Common algorithms include decision trees, support vector machines, and neural networks.",
+          "timestamp": "00:00"
+        }
+      ]
+    },
+    {
+      "heading": "Unsupervised and Reinforcement Learning",
+      "bullets": [
+        {
+          "text": "Unsupervised learning finds patterns in data without labels.",
+          "timestamp": "00:45"
+        },
+        {
+          "text": "Example: K-means for clustering customers based on purchasing behavior.",
+          "timestamp": "00:45"
+        },
+        {
+          "text": "Reinforcement learning involves an agent learning from feedback or rewards in an environment.",
+          "timestamp": "00:45"
+        },
+        {
+          "text": "Example: Training AI to play video games or control a robot.",
+          "timestamp": "00:45"
+        }
+      ]
+    },
+    {
+      "heading": "Challenges and Real-World Applications",
+      "bullets": [
+        {
+          "text": "Overfitting occurs when a model memorizes training data but performs poorly on new data.",
+          "timestamp": "01:30"
+        },
+        {
+          "text": "Bias arises when the training data itself is not balanced.",
+          "timestamp": "01:30"
+        },
+        {
+          "text": "Applications include disease prediction in healthcare.",
+          "timestamp": "01:30"
+        },
+        {
+          "text": "Used in finance for fraud detection.",
+          "timestamp": "01:30"
+        },
+        {
+          "text": "Essential for object recognition in self-driving cars.",
+          "timestamp": "01:30"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Machine Learning Basics",
+  "topics": [
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Reinforcement Learning",
+    "Machine Learning Challenges",
+    "ML Applications"
+  ],
+  "sections": [
+    {
+      "heading": "Introduction to Machine Learning",
+      "bullets": [
+        {
+          "text": "Machine learning teaches computers to learn from data, not explicit rules.",
+          "timestamp": "00:00"
+        }
+      ]
+    },
+    {
+      "heading": "Supervised Learning",
+      "bullets": [
+        {
+          "text": "System is trained on labeled data.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Example: Email marked as spam or not spam.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Model learns patterns to predict unseen cases.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Common algorithms: Decision trees, Support Vector Machines, Neural Networks.",
+          "timestamp": "00:00"
+        }
+      ]
+    },
+    {
+      "heading": "Unsupervised and Reinforcement Learning",
+      "bullets": [
+        {
+          "text": "Unsupervised learning finds patterns without labels.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Example: Clustering customers by purchasing behavior (K-means).",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Reinforcement learning: Agent learns from environment feedback/rewards.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Example: AI playing video games or controlling robots.",
+          "timestamp": "01:00"
+        }
+      ]
+    },
+    {
+      "heading": "Challenges in Machine Learning",
+      "bullets": [
+        {
+          "text": "Overfitting: Model memorizes training data, performs poorly on new data.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Bias: Occurs when the training data itself is unbalanced.",
+          "timestamp": "01:00"
+        }
+      ]
+    },
+    {
+      "heading": "Applications of Machine Learning",
+      "bullets": [
+        {
+          "text": "Healthcare: Disease prediction.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Finance: Fraud detection.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Self-driving cars: Object recognition.",
+          "timestamp": "01:00"
+        }
+      ]
+    }
+  ]
+}

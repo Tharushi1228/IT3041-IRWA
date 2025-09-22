@@ -1,0 +1,95 @@
+{
+  "title": "Machine Learning Basics",
+  "topics": [
+    "Machine Learning",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Reinforcement Learning",
+    "Overfitting",
+    "Bias",
+    "ML Applications",
+    "Evaluation Metrics"
+  ],
+  "sections": [
+    {
+      "heading": "Introduction to Machine Learning & Supervised Learning",
+      "bullets": [
+        {
+          "text": "Machine learning teaches computers to learn from data, not explicit rules.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Supervised learning trains systems on labeled data.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Example: identifying spam emails.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "Common algorithms: decision trees, support vector machines, neural networks.",
+          "timestamp": "00:00"
+        }
+      ]
+    },
+    {
+      "heading": "Unsupervised and Reinforcement Learning",
+      "bullets": [
+        {
+          "text": "Unsupervised learning finds patterns in data without labels.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Example: clustering customers using K-means.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Reinforcement learning involves an agent learning from environmental feedback/rewards.",
+          "timestamp": "01:00"
+        },
+        {
+          "text": "Example: AI training for video games or robot control.",
+          "timestamp": "01:00"
+        }
+      ]
+    },
+    {
+      "heading": "Challenges and Applications of ML",
+      "bullets": [
+        {
+          "text": "Overfitting: model memorizes training data, performs poorly on new data.",
+          "timestamp": "02:00"
+        },
+        {
+          "text": "Bias: unbalanced training data leads to skewed results.",
+          "timestamp": "02:00"
+        },
+        {
+          "text": "Applications in healthcare: disease prediction.",
+          "timestamp": "02:00"
+        },
+        {
+          "text": "Applications in finance: fraud detection.",
+          "timestamp": "02:00"
+        },
+        {
+          "text": "Applications in self-driving cars: object recognition.",
+          "timestamp": "02:00"
+        }
+      ]
+    },
+    {
+      "heading": "Upcoming Topics",
+      "bullets": [
+        {
+          "text": "Next lecture will cover evaluation metrics.",
+          "timestamp": "02:00"
+        },
+        {
+          "text": "Metrics include accuracy, precision, recall, and F1-score.",
+          "timestamp": "02:00"
+        }
+      ]
+    }
+  ]
+}

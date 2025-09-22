@@ -1,0 +1,140 @@
+{
+  "title": "Understanding Deep Learning",
+  "topics": [
+    "Deep Learning Definition",
+    "Machine Learning vs. Deep Learning",
+    "Artificial Neural Networks",
+    "Deep Learning Applications",
+    "Limitations of Deep Learning",
+    "Deep Learning Frameworks",
+    "Future of AI"
+  ],
+  "sections": [
+    {
+      "heading": "Introduction to Deep Learning",
+      "bullets": [
+        {
+          "text": "Deep learning powers features like webpage translation and image grouping.",
+          "timestamp": "00:00"
+        },
+        {
+          "text": "It is a subset of machine learning, which is a subset of artificial intelligence.",
+          "timestamp": "00:12"
+        },
+        {
+          "text": "AI mimics human behavior; ML achieves AI through data-trained algorithms.",
+          "timestamp": "00:12"
+        },
+        {
+          "text": "Deep learning is inspired by the structure of the human brain, using artificial neural networks.",
+          "timestamp": "00:38"
+        }
+      ]
+    },
+    {
+      "heading": "Deep Learning vs. Machine Learning",
+      "bullets": [
+        {
+          "text": "Example: Differentiating tomatoes and cherries.",
+          "timestamp": "00:38"
+        },
+        {
+          "text": "Machine learning requires humans to define differentiating features (e.g., size, stem).",
+          "timestamp": "00:38"
+        },
+        {
+          "text": "Deep learning's neural network automatically picks out features without human intervention.",
+          "timestamp": "01:02"
+        },
+        {
+          "text": "Deep learning requires a significantly higher volume of data for training.",
+          "timestamp": "01:02"
+        }
+      ]
+    },
+    {
+      "heading": "How Neural Networks Function",
+      "bullets": [
+        {
+          "text": "Neural networks are trained to identify handwritten digits, like a 28x28 pixel image of '9'.",
+          "timestamp": "01:15"
+        },
+        {
+          "text": "Each pixel is fed to a neuron in the input layer.",
+          "timestamp": "01:50"
+        },
+        {
+          "text": "Information transfers through weighted channels between input, hidden, and output layers.",
+          "timestamp": "02:08"
+        },
+        {
+          "text": "Each neuron has a bias, added to the weighted sum of inputs, then applied to an activation function.",
+          "timestamp": "02:22"
+        },
+        {
+          "text": "Activated neurons pass information to subsequent layers until the output layer identifies the digit.",
+          "timestamp": "02:39"
+        },
+        {
+          "text": "Weights and bias are continuously adjusted to train the network effectively.",
+          "timestamp": "02:50"
+        }
+      ]
+    },
+    {
+      "heading": "Real-World Applications of Deep Learning",
+      "bullets": [
+        {
+          "text": "Customer support: Realistic AI bots for conversations.",
+          "timestamp": "02:59"
+        },
+        {
+          "text": "Medical care: Detecting cancer cells and analyzing MRI images for detailed results.",
+          "timestamp": "03:14"
+        },
+        {
+          "text": "Self-driving cars: Companies like Apple, Tesla, and Nissan are making this a reality.",
+          "timestamp": "03:22"
+        }
+      ]
+    },
+    {
+      "heading": "Limitations of Deep Learning",
+      "bullets": [
+        {
+          "text": "Data volume: Neural networks require massive amounts of data for training, especially unstructured data.",
+          "timestamp": "03:38"
+        },
+        {
+          "text": "Computational power: Training requires expensive Graphical Processing Units (GPUs) with thousands of cores.",
+          "timestamp": "03:50"
+        },
+        {
+          "text": "Training time: Deep neural networks can take hours or even months to train, depending on data and layers.",
+          "timestamp": "04:14"
+        }
+      ]
+    },
+    {
+      "heading": "Frameworks and Future Outlook",
+      "bullets": [
+        {
+          "text": "Popular deep learning frameworks include TensorFlow, PyTorch, Keras, and Caffe.",
+          "timestamp": "04:46"
+        },
+        {
+          "text": "The field is still in its early stages, with vast potential for future development.",
+          "timestamp": "05:00"
+        },
+        {
+          "text": "Example: Horse Technology is developing a device for the blind using deep learning and computer vision.",
+          "timestamp": "05:00"
+        },
+        {
+          "text": "Replicating the human mind may soon move from science fiction to reality.",
+          "timestamp": "05:17"
+        }
+      ]
+    }
+  ]
+}

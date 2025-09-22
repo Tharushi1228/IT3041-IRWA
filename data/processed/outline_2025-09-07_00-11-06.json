@@ -1,0 +1,107 @@
+{
+  "title": "Machine Learning Basics",
+  "topics": [
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Reinforcement Learning",
+    "Machine Learning Challenges",
+    "ML Applications"
+  ],
+  "sections": [
+    {
+      "heading": "Introduction to Machine Learning",
+      "bullets": [
+        {
+          "text": "Machine learning teaches computers to learn from data, not explicit rules.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Supervised Learning",
+      "bullets": [
+        {
+          "text": "System trained on labeled data (e.g., spam/not spam emails).",
+          "timestamp": null
+        },
+        {
+          "text": "Model learns patterns to predict unseen cases.",
+          "timestamp": null
+        },
+        {
+          "text": "Common algorithms: decision trees, support vector machines, neural networks.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Unsupervised Learning",
+      "bullets": [
+        {
+          "text": "System finds patterns in data without labels.",
+          "timestamp": null
+        },
+        {
+          "text": "Example: clustering customers by purchasing behavior.",
+          "timestamp": null
+        },
+        {
+          "text": "K-means is a classic algorithm.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Reinforcement Learning",
+      "bullets": [
+        {
+          "text": "Agent interacts with an environment, learns from feedback/rewards.",
+          "timestamp": null
+        },
+        {
+          "text": "Examples: AI playing video games, controlling robots.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Challenges in Machine Learning",
+      "bullets": [
+        {
+          "text": "Overfitting: model memorizes training data, performs poorly on new data.",
+          "timestamp": null
+        },
+        {
+          "text": "Bias: data itself is not balanced.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Applications of Machine Learning",
+      "bullets": [
+        {
+          "text": "Healthcare: disease prediction.",
+          "timestamp": null
+        },
+        {
+          "text": "Finance: fraud detection.",
+          "timestamp": null
+        },
+        {
+          "text": "Self-driving cars: object recognition.",
+          "timestamp": null
+        }
+      ]
+    },
+    {
+      "heading": "Next Lecture Preview",
+      "bullets": [
+        {
+          "text": "Will cover evaluation metrics: accuracy, precision, recall, F1-score.",
+          "timestamp": null
+        }
+      ]
+    }
+  ]
+}
