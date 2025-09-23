@@ -30,5 +30,5 @@
 3. `pip install -r requirements.txt`  
 4. `streamlit run app.py` → open the local URL in your browser.  
 5. Upload a lecture audio (mp3/wav) or text/PDF transcript → click **Run**.  
-6. Download the generated **.pptx** from the UI.
+6. Download the generated **.pptx**.
 
