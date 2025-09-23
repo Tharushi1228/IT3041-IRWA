@@ -9,8 +9,8 @@ from pydantic import BaseModel
 from utils.fs import SLIDES_OUT, ts
 
 # -----------------------
-# Models
-# -----------------------
+# Models-----
+# --------------------------
 class Bullet(BaseModel):
     text: str
     timestamp: str | None = None  # kept for future, but not shown in slides

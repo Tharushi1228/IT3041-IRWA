@@ -6,7 +6,7 @@ from google.genai import types
 from dotenv import load_dotenv
 
 # --------------------------
-# Load environment
+# Load environment-------
 # --------------------------
 load_dotenv()
 
