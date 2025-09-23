@@ -25,7 +25,7 @@
 
 
 ## Quickstart
-1. **Install Python 3.10+** and **FFmpeg** (for audio).  
+1. **Install Python 3.12** and **FFmpeg** (for audio).  
 2. **Create API key (free)** in Google AI Studio → copy to `.env`.  
 3. `pip install -r requirements.txt`  
 4. `streamlit run app.py` → open the local URL in your browser.  
