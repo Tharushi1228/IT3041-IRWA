@@ -8,7 +8,7 @@ from .gemini_client import gen_text
 from utils.fs import DATA_PROC, ts
 
 # --------------------------
-# Data Models------
+# Data Models
 # --------------------------
 class Bullet(BaseModel):
     text: str
