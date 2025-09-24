@@ -15,7 +15,7 @@
 ## Project Overview
 
 > An AI-powered app that transforms lecture content into clean transcripts, structured outlines, and professional slides.
-> Built using Google Gemini API and Streamlit, it's perfect for summarizing and presenting lecture material efficiently.
+> Built using Google Gemini API and Streamlit, it's perfect for summarizing and presenting lecture material efficiently. 
 
 
 ## What it does
